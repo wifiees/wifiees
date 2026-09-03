@@ -1,6 +1,6 @@
-$${\color{#ADBACC}D\color{#8188B2}i\color{#665C98}r\color{#5C3E7E}e\color{#572765}c\color{#4C1348}t\color{#572765}t\color{#5C3E7E}or}$$  
+$${\color{#F4D8E4}D\color{#F0B8DF}i\color{#EC99E9}r\color{#CE7BE5}e\color{#A45EE2}c\color{#6B42DE}t\color{#2727D7}t\color{#6B42DE}or}$$  
 
-$${\color{#ADBACC}​ ☯︎}$$
+$${\color{#2727D7}​ ☯︎}$$
 
 <img width="773" height="62" alt="image" src="https://github.com/user-attachments/assets/c6863afa-7114-4bfa-8afa-537d665b441e" />
 
