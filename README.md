@@ -13,3 +13,12 @@ $${\color{#2727D7}​ ☯︎}$$
 
 
 
+
+<a href="https://github.com/wifiees">
+  <img src="https://files.catbox.moe/kqt4cb.png" alt="WiFiEZ Logo" width="250" />
+</a>
+
+
+<a href="https://wifiez.straw.page/etc">
+  <img src="https://files.catbox.moe/yzg0z0.png" alt="WiFiEZ Logo" width="250" />
+</a>
