@@ -6,7 +6,10 @@ $${\color{#2727D7}​ ☯︎}$$
 
 <img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/c150f62b-a32c-49c4-9d1b-a299cc7ae103" />
 
-[![. . ](https://kommodo.ai/i/7fOimrZTIMxdl70mK86H)](https://wifiez.straw.page/)
+
+<a href="https://wifiez.straw.page/">
+  <img src="https://files.catbox.moe/jfwu2m.png" alt="WiFiEZ Logo" width="250" />
+</a>
 
 
 
