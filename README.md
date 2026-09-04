@@ -15,7 +15,7 @@ $${\color{#2727D7}​ ☯︎}$$
 
 
 <a href="https://github.com/wifiees">
-  <img src="https://files.catbox.moe/kqt4cb.png" alt="WiFiEZ Logo" width="150" />
+  <img src="https://files.catbox.moe/kqt4cb.png" alt="WiFiEZ Logo" width="190" />
 </a>
 
 
