@@ -4,7 +4,8 @@ $${\color{#2727D7}​ ☯︎}$$
 
 <img width="773" height="62" alt="image" src="https://github.com/user-attachments/assets/c6863afa-7114-4bfa-8afa-537d665b441e" />
 
-<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/c150f62b-a32c-49c4-9d1b-a299cc7ae103" />
+<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/cd153517-4dca-463e-95eb-db0b8a2e6e85" />
+
 
 
 <a href="https://wifiez.straw.page/">
